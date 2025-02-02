@@ -23,8 +23,3 @@ git clone https://github.com/Alfe1n/kopi-kenangan-senja.git
 cd kopi-kenangan-senja
 After cloning the repository, open the index.html file in your browser to see the website in action.
 
-##Contributing
-If you want to contribute to this project, feel free to fork the repository and submit pull requests. I welcome suggestions for improvements, new features, or bug fixes!
-
-##License
-This project is open-source and available under the MIT License.
