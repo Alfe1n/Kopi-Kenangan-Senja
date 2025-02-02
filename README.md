@@ -24,8 +24,8 @@ cd kopi-kenangan-senja
 ```
 After cloning the repository, open the index.html file in your browser to see the website in action.
 
-##Contributing
+## Contributing
 If you want to contribute to this project, feel free to fork the repository and submit pull requests. I welcome suggestions for improvements, new features, or bug fixes!
 
-##License
+## License
 This project is open-source and available under the MIT License.
